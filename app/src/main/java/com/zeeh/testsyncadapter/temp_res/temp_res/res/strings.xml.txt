@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestSyncAdapter</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Account type (for sync-adapter authenticator_txt) -->
+    <!-- SyncAdapter related -->
+        <string name="sync_account_type">testsyncadapter.zeeh.com</string>
+        <string name="content_authority">com.zeeh.testsyncadapter</string>
+</resources>
